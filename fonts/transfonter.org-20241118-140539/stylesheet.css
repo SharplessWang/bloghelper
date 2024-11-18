@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ShinshuSeitenMinchou';
+    src: url('ShinshuSeitenMinchou.eot');
+    src: url('ShinshuSeitenMinchou.eot?#iefix') format('embedded-opentype'),
+        url('ShinshuSeitenMinchou.woff2') format('woff2'),
+        url('ShinshuSeitenMinchou.woff') format('woff'),
+        url('ShinshuSeitenMinchou.ttf') format('truetype'),
+        url('ShinshuSeitenMinchou.svg#ShinshuSeitenMinchou') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
